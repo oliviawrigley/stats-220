@@ -34,4 +34,4 @@ For the meme I have created in this assignment I have taken inspiration from the
 * Tuxedo whinye the pooh
 * Mr incredibile traumatizzato
 
-For the content of my meme, I wanted to relate to my University experience. Before starting University, I despised coffee as I was not too fond of the taste, and I thought I could get through all my work without it. However, I was wrong; caffeine has helped pull me through. From the 8 am lectures to the all-nighters, coffee has been my saving grace. 
+For the content of my meme, I wanted to relate to my University experience. Before starting University, I despised coffee as I was not too fond of the taste, and I thought I could get through all my work without it. However, I was wrong; caffeine has helped pull me through. From the 8 am lectures to the all-nighters, coffee has been my saving grace. With the background of the images, the top image representing me before accepting coffee as a black background, I feel this shows me in the darkness, blind to the benefits of coffee. The second image has a white background as I think this symbols me being *'saved'* by coffee. 
