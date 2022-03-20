@@ -1,0 +1,24 @@
+library(magick)
+#square one
+before_uni <- image_read("https://media.istockphoto.com/photos/elegant-man-in-beige-suit-hat-and-eyeglasses-refusing-coffee-from-picture-id1204237201?k=20&m=1204237201&s=612x612&w=0&h=feJOnYUtbptnyJrtYhvGzbG6__RjG4hZd7wzRGne5hA=")%>% image_scale(500)
+
+#square two
+me_before <- image_blank(width = 500, height = 400, color = "#000000") %>% 
+  image_annotate(text = "Me before uni", color = "#FFFFFF", size = 50,
+                 font = "Impact", gravity = "center" )
+#square three
+at_uni <- image_read("https://media.istockphoto.com/photos/hardworking-business-man-drinks-too-much-coffee-picture-id513582516?k=20&m=513582516&s=612x612&w=0&h=5A28SC635yPgeUm609m7LCQJUiW1GGAGfxDC7Bc22IQ=") %>% image_scale(500)
+
+#square four
+me_uni <- image_blank(width = 500, height = 350, color = "#000000") %>%
+  image_annotate(text = "Now, my saving grace", color = "#FFFFFF", size = 50,
+                 font = "Impact", gravity = "center" )
+
+# making the rows
+top_row <- image_append(c(before_uni, me_before))
+bottom_row <- image_append(c(at_uni, me_uni))
+
+#final
+c(top_row, bottom_row) %>% image_append(stack = TRUE) %>% image_scale(800)
+
+image_write(meme, "my_meme.png")
