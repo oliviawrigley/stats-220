@@ -1,7 +1,7 @@
 # stats-220 - Olivia Wrigley
 
-## Why create this repo?
-* Even though creating a repo is essential and a requirment for the assignment
+## Why I created this repo
+* Essential and a requirment for the assignment 1
 * This is a great platform and way of collating my work 
 * Tracking my progress through out the 220 course and my futrue in github
 
