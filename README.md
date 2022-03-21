@@ -22,7 +22,7 @@
 2. [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package 🖤
 3. Mardown 💜
 
-*For more imforation about Stats 220 at the Univeristy of Auckland click the link [220 course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)*
+*For more imformation about Stats 220 at the Univeristy of Auckland click the link [220 course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)*
 
 ![image](https://cdn.pixabay.com/photo/2015/09/05/20/02/coding-924920_960_720.jpg)
 
