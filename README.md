@@ -14,7 +14,7 @@
 
 
 **Click the link to see my Stats 220 Repo**
-[My Repo](https://github.com/oliviawrigley/stats-220)
+[My Repo](https://oliviawrigley.github.io/stats-220/)
 
 ## Tools I have used so far
 
